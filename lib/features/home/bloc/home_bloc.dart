@@ -1,11 +1,9 @@
 import 'dart:async';
-
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
 import 'package:new_bloc_practice/data/grocery_data.dart';
 import 'package:new_bloc_practice/features/home/models/home_product_data_model.dart';
 import 'package:new_bloc_practice/features/home/ui/home.dart';
-
 part 'home_event.dart';
 part 'home_state.dart';
 
