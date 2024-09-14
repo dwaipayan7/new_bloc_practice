@@ -47,6 +47,7 @@ class CartTileWidget extends StatelessWidget {
               ),
               Spacer(),
               Row(
+
                 children: [
                   IconButton(
                       onPressed: () {
